@@ -14,7 +14,7 @@ export class Home extends Component { // funciona sem o export
     posts: [],
     allPosts: [],
     page: 0,
-    postsPerPage: 4,
+    postsPerPage: 10,
     searchValue: ''
   };
 
